@@ -1,6 +1,6 @@
 /*This class uses the other classes to build lists using User input and display the information at the User's request.
  * This class also contains a menu loop to allow the User to perform the task they need to and allows the user to exit the program.
- * Author: Matthew Meyers
+ * Author: Madeline Meyers
  * Date: October 17, 2021
  * */
 import java.util.ArrayList;
