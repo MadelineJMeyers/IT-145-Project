@@ -1,5 +1,5 @@
 /*Class used to set information about dogs in the main program to be stored in a list.
- * Author: Matthew Meyers
+ * Author: Madeline Meyers
  * Date: October 3, 2021
  * */
 public class Dog extends RescueAnimal {
