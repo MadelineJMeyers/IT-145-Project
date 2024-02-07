@@ -1,5 +1,5 @@
 /*Class to set basic information, other animal classes inherit from this class and can access the methods set here.
- * Author: Matthew Meyers
+ * Author: Madeline Meyers
  * Date: October 3, 2021
  * */
 
@@ -15,9 +15,9 @@ public class RescueAnimal {
     private String weight;
     private String acquisitionDate;
     private String acquisitionCountry;
-	private String trainingStatus;
+    private String trainingStatus;
     private boolean reserved;
-	private String inServiceCountry;
+    private String inServiceCountry;
 
 
     // Constructor
