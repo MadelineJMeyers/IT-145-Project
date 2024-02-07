@@ -1,5 +1,5 @@
 /*This class is used to set information about monkeys for the main program and to be able to pass the information to a list.
- * Author: Matthew Meyers
+ * Author: Madeline Meyers
  * Date: October 3, 2021
  * */
 public class Monkey extends RescueAnimal {
